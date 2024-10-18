@@ -4,9 +4,11 @@
 
 -- 👩‍💻 J'ai 27 ans, et vous êtes sur mon profil GitHub 
 
--- 👀 Je suis actuellement en formation de développeur web/web mobile chez Elan Formation !
+-- 👀 Développeur Web et Web Mobile Junior
 
--- 🔧 Technologies utilisées : HTML, CSS, JavaScript, PHP, SQL, Symfony, BootStrap, Jquery
+-- 🔧 Technologies utilisées : HTML, CSS, JavaScript, PHP, SQL, Symfony
+
+-- 🔨 En apprentissage : React, NextJS
 
 -- ⚡ Fun fact: Brendan Eich a développé la première version de JavaScript en seulement 10 jours en mai 1995 ! 💥
 
@@ -17,6 +19,10 @@
 <h2> Skills Back End </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,symfony)](https://skillicons.dev)
+
+<h2> Learning </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
 
 <h2> Outils </h2>
 
